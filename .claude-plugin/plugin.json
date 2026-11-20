@@ -1,0 +1,10 @@
+{
+  "name": "revue-maison",
+  "version": "0.1.0",
+  "description": "Installe la revue de code maison pour les développeurs de l'équipe : la commande /revue, le skill des critères de revue et un hook de lint PHP après chaque écriture.",
+  "author": {
+    "name": "Olivier Perrier - équipe formation Acelys"
+  },
+  "homepage": "https://forge.interne.example/formation/revue-maison",
+  "keywords": ["revue-de-code", "php", "qualite"]
+}

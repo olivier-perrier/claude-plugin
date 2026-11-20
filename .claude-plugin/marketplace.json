@@ -1,0 +1,13 @@
+{
+  "name": "formation-acelys",
+  "owner": {
+    "name": "Équipe formation Acelys"
+  },
+  "plugins": [
+    {
+      "name": "revue-maison",
+      "source": "./",
+      "description": "Revue de code maison : /revue, critères de revue, lint PHP automatique."
+    }
+  ]
+}
